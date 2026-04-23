@@ -24,7 +24,7 @@ Multiple models are compared, and the final model is selected based on validatio
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/bankruptcy-classification.git
+git clone https://github.com/AlfiyaKuerban/bankruptcy-classification.git
 cd bankruptcy-classification
 ```
 
