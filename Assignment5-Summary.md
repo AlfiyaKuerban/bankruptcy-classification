@@ -64,12 +64,12 @@
 ---
 
 ## Final Test Results
-- PR-AUC: (your value)
-- ROC-AUC: (your value)
-- Brier Score: (your value)
-- Precision: (your value)
-- Recall: (your value)
-- F1-score: (your value)
+- PR-AUC: (o.5209)
+- ROC-AUC: (0.9586)
+- Brier Score: (0.00224)
+- Precision: (0.6154)
+- Recall: (0.2424)
+- F1-score: (0.3478)
 
 The model maintains good performance on the test set, indicating reasonable generalization.
 
